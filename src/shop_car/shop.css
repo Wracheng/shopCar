@@ -1,0 +1,10 @@
+.ant-row:not(:first-child) {
+  height: 90px;
+  margin-top: 10px;
+}
+.ant-row:last-of-type{
+  height:40px;
+}
+.clear,.pay{
+    margin-top: 10px;
+}
